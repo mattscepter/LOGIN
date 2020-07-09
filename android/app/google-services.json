@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581026176462",
+    "firebase_url": "https://fir-3169d.firebaseio.com",
+    "project_id": "fir-3169d",
+    "storage_bucket": "fir-3169d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581026176462:android:0e3ccb424b8e9d840d1f9f",
+        "android_client_info": {
+          "package_name": "com.mattscepter.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581026176462-re3aq253nlm0divacpq06tuk15c02k1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpydG3WKDXNChPvZWBhe5RGdBSGXV2Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581026176462-re3aq253nlm0divacpq06tuk15c02k1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
