@@ -272,7 +272,7 @@ class recent extends StatelessWidget{
                 children: <Widget>[
                   Padding(
                     padding: const EdgeInsets.fromLTRB(20, 5, 0, 5),
-                    child: Image.asset("assets/images/"+this.image,scale: 10.0,),
+                    child: Image.asset("assets/images/"+this.image,scale: 10.5,),
                   ),
                   new Align(
                     alignment: Alignment.centerLeft,
